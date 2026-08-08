@@ -1,0 +1,12 @@
+-- imports
+require("modules/monitors")
+require("modules/autostarts")
+require("modules/env")
+require("modules/decorations")
+require("modules/animations")
+require("modules/layouts")
+require("modules/misc")
+require("modules/inputs")
+require("modules/keybinds")
+require("modules/windowrules")
+require("modules/plugins")
